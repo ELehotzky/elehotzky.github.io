@@ -5,8 +5,9 @@ title: Giving this blog thing a shot!
 
 Hello, World! I've been meaning to start a blog for awhile to track my coding progress. With #CNC2018 starting, I figured now was a great time. So my first post will be focused on the pre-mission assignment!
 
-<em>PRE-MISSION: Reflect on past coding sessions and plan for the future.
-GOAL: Understand what has and hasn't worked in past attempts to code more, and start thinking about long and short-term goals.
+<em>PRE-MISSION: Reflect on past coding sessions and plan for the future.</em>
+
+<em>GOAL: Understand what has and hasn't worked in past attempts to code more, and start thinking about long and short-term goals.
 What has worked? Think about the times you've been happy with what you've coded and jot down three things that went well. Next, jot down three reasons why that was a happy coding session.</em>
 
 <strong>What went well</strong>
